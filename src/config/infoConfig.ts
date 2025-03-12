@@ -3,7 +3,7 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Jiayu Guo'
+export const name = 'James Guo'
 export const headline = 'Student at Shanghai Soong Ching Ling School.'
 export const introduction =
   "Coucou Les Amis! My name is Jiayu." 
